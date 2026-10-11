@@ -85,6 +85,3 @@ This project demonstrates how search algorithms can be implemented and evaluated
 
 The main conclusion is that **BFS is the preferred algorithm when the shortest path is required in an unweighted maze**.
 
-## Repository
-
-GitHub: [https://github.com/samarthyamgar/AI_Augmented_Workflow.git](https://github.com/samarthyamgar/Sle_4_AI_Agent.git)
